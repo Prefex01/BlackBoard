@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face { 
+    font-family: 'toll';
+	src: url('Hero.otf') 
+	format('truetype'); 
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+    font-family:'toll';
+    background-color: #000000;
+    padding: .1em;
+	color: white;
+}
+header {
+    border: 1px solid white;
+    text-align: center;
+    height:130px;
+    font-size: 50px;
+	margin-bottom: 2px;
+	line-height: 120px;
+}
+nav {
+    border: 1px solid white;
+    width: 19%;
+    padding: .2em;
+	padding-left: 8px;
+	padding-top: 5px;
+    margin-bottom: 5%;
+    float: left;
+	min-height: 45em;
+	line-height: 110%;
+}
+
+#seite {
+	position: relative;
+	min-height:100%;
+	margin: 0 auto;
+}
+.main {
+    border: 1px solid white;
+    float: left;
+    width: 79%;
+    margin-left: auto;
+    margin-right: auto;
+	padding-top: 20px;    
+    background-color: #202020;
+	min-height: 44em;
+}
+
+.main1 {
+    border: 1px solid white;
+    float: left;
+    width: 99%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+	padding-top: 20px;    
+    background-color: #202020;
+	min-height: 44em;
+}
+
+footer {
+    border: 1px solid white;
+    clear: both;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+	background-color: #202020;
+	height: 2em;
+	line-height: 2em;
+}
+.linie {
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.kasten {
+	position: relative;
+	min-height: 250px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 10px;
+	width: 250px;
+	float:left;
+	border: 2px double white;
+	border-radius:10px;
+}
+.text-center {
+	text-align: center;
+}
+.well {
+	min-height: 20px;
+	padding: 19px;
+	margin-bottom: 20px;
+	background-color: #202020;
+	border: 1px solid white;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.eingabe {
+	width: 100px;
+}
+
+.auswahl {
+	width: 100px;
+	text-align: right;
+}
+
+#ele {
+	display: block;
+}
+
+#elf {
+	display: none;
+	text-decoration: none;
+	color: white;
+}
+
+#elg {
+	text-decoration: none;
+	color: white;
+}
+
+#tabelle {
+	padding-top: 5px;
+	padding-left: 10px;
+}
+
+.mittig{
+	margin-left: auto;
+	margin-right: auto;
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<AnzeigenDb>
+  <anzeige>
+    <name>ALEHANDRO</name>
+    <email>ah@me.de</email>
+    <bezeichnung>Golf GTI</bezeichnung>
+    <datum>18.11.2016</datum>
+    <rubrik>Elektronik</rubrik>
+    <text>Gute Golf bisschen halo piza gefaren aber sonst ok</text>
+    <preis>90</preis>
+  </anzeige>
+  <anzeige>
+    <id>07122016083157</id>
+    <name>Christian Schiarelli</name>
+    <email>haarbandssindcool@me.com</email>
+    <bezeichnung>Suche gute Haarband bitte nicht schwul</bezeichnung>
+    <datum>07.12.2016</datum>
+    <rubrik>Mode</rubrik>
+    <text>Am besten wären babyblau oder rosa</text>
+    <preis>17</preis>
+  </anzeige>
+  <anzeige>
+    <id>09122016230450</id>
+    <name>Rebekka Berger</name>
+    <email>bekkiberger@t-online.de</email>
+    <bezeichnung>Kamera NX210</bezeichnung>
+    <datum>09.12.2016</datum>
+    <rubrik>Elektronik</rubrik>
+    <text>Fast neu, funktioniert bestens</text>
+    <preis>200</preis>
+  </anzeige>
+  <anzeige Uid="13012017085205">
+    <name name="Christian Schiarelli"/>
+    <email>expresso@italia.de</email>
+    <bezeichnung>Expressomaschine</bezeichnung>
+    <datum>13.01.2017</datum>
+    <rubrik>Elektronik</rubrik>
+    <text>Gute Expressomaschine importiert aus Französien gute preis</text>
+    <preis>8</preis>
+  </anzeige>
+  <anzeige Uid="13012017085518">
+    <name Name="Christian Schiarelli" Mail="expresso@italia.de"/>
+    <bezeichnung>Expressomaschine</bezeichnung>
+    <datum>13.01.2017</datum>
+    <rubrik>Elektronik</rubrik>
+    <text>Gute Expressomaschine importiert aus Französien gute preis</text>
+    <preis>8</preis>
+  </anzeige>
+  <anzeige Uid="13012017085654">
+    <name Name="Christian Schiarelli" Mail="expresso@italia.de"/>
+    <bezeichnung>Expressomaschine</bezeichnung>
+    <datum>13.01.2017</datum>
+    <rubrik>Elektronik</rubrik>
+    <text>Gute Expressomaschine importiert aus Französien gute preis</text>
+    <preis>8</preis>
+  </anzeige>
+</AnzeigenDb>
