@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Das Schwarzebrett-2</title>
+	<title>Das Schwarzebrett</title>
 	<link href="stylesheet.css" rel="stylesheet" type="text/css">
 </head>
 <body>
